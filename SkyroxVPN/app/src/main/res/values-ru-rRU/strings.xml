@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skyrox VPN</string>
+    <string name="vpn_stop">Стоп</string>
+    <string name="vpn_start">Старт</string>
+    <string name="premium_button">Премиум-доступ</string>
+    <string name="download">Загружено</string>
+    <string name="upload">Выгружено</string>
+    <string name="choose_server">Выберите локацию</string>
+    <string name="button_help">Помощь</string>
+    <string name="button_change_theme">Темная тема</string>
+    <string name="button_speed_test">Тест скорости</string>
+    <string name="button_preferences">Предпочтения</string>
+    <string name="button_referals">Реверальная программа</string>
+    <string name="text_secured">Вы защищены</string>
+    <string name="upgrade_premium">Обновитесь до Премиум</string>
+    <string name="text_info_settings_1">Доступ ко всем серверам по всему миру, быстро и мощно!</string>
+    <string name="text_info_settings_2">быстро и мощно!</string>
+    <string name="choose_plan">ВЫБЕРИТЕ ПЛАН</string>
+    <string name="upgrade">Обновить</string>
+    <string name="text_daily">Дневной</string>
+    <string name="text_weekly">Недельный</string>
+    <string name="text_monthly">Месячный</string>
+    <string name="text_yearly">Годовой</string>
+    <string name="text_no_subscription">Подписка отсутствует</string>
+
+    <string name="text_help_info">Добро пожаловать в центр поддержки!
+
+    Если у вас возникли вопросы или проблемы с приложением, свяжитесь с нами по электронной почте.
+
+    Также вы можете ознакомиться с Политикой конфиденциальности и Условиями использования по ссылкам ниже.
+    </string>
+
+    <string name="text_callback">Обратная связь</string>
+    <string name="privacy_policy">Политика конфиденциальности</string>
+    <string name="terms_of_use">Условия использования</string>
+
+    <string name="free_servers">Бесплатные серверы</string>
+    <string name="premium_servers">Премиум-серверы</string>
+</resources>
