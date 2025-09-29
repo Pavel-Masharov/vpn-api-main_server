@@ -1,4 +1,0 @@
-<resources>
-    <style name="Theme.Shadowsocks.Translucent" parent="android:Theme.Material.Light.NoActionBar"/>
-    <style name="Theme.Shadowsocks.ActionBar" parent="android:Theme.Material.Light.NoActionBar"/>
-</resources>
